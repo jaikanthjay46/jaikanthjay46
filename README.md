@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I engineer and build production-ready products. Having worked end to end on multiple products in various points of its lifecycle, I can see the big picture and work towards it. In my professional experience I have built products ranging from UI-only solutions to complex distributed systems. 
 
-**Funfact**: I answer on StackOverflow
+**Fun Fact**: I answer on StackOverflow
 
 
 ## 🛠 Skills
