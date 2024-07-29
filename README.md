@@ -9,7 +9,7 @@ I engineer and build production-ready products. Having worked end to end on mult
 
 
 ## 🛠 Skills
-Angular, React.js, Node.js, Java, Spring, Terraform, Docker, Kubernetes, Python, System Design, Data Structures & Algorithms, Elasticsearch, Distributed Tracing, Web Security
+System Design, Data Structures & Algorithms, Web Security, Node.js, Java, Spring, Terraform, Docker, Kubernetes, Python, Angular, React.js
 
 
 ## 🔗 Links
